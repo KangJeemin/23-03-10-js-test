@@ -59,5 +59,12 @@ const _EXAMDATA = {
   designInformation: {
     colorSet : ["cadetblue", "salmon", "#ccc", "#333"],
     breakPoint : [ "768px", "1280px",  "1920px"]
+  },
+  doing:{
+    like:"좋아하고",
+    hate:"싫어하고",
+    well:"잘한다",
+    notwell:"못한다",
+
   }
 }
